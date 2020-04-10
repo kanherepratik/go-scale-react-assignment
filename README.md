@@ -6,4 +6,4 @@
 - run `yarn start` or `npm start`
 
 # Demo
-[https://determined-wright-e98d50.netlify.com/]
+https://determined-wright-e98d50.netlify.com/
