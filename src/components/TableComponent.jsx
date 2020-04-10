@@ -80,6 +80,8 @@ class TableComponent extends Component {
           options={{
             filtering: true,
             search: true,
+            pageSize: 20,
+            emptyRowsWhenPaging: false,
           }}
           onRowClick={(event, rowData) => this.addRowData(event, rowData)}
         />
