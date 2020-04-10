@@ -4,3 +4,6 @@
 - clone the repo
 - run `yarn install` or `yarn` or `npm install`
 - run `yarn start` or `npm start`
+
+# Demo
+[https://determined-wright-e98d50.netlify.com/]
